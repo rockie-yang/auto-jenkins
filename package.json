@@ -1,0 +1,29 @@
+{
+  "name": "auto-jenkins",
+  "version": "1.0.0",
+  "description": "automatical setup/config/manage jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockiey/auto-jenkins.git"
+  },
+  "keywords": [
+    "automatic",
+    "jenkins",
+    "setup",
+    "config",
+    "manage"
+  ],
+  "author": "Rockie Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockiey/auto-jenkins/issues"
+  },
+  "homepage": "https://github.com/rockiey/auto-jenkins#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
